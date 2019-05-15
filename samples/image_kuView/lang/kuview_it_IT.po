@@ -1,0 +1,702 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kujawiak Viewer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-25 15:53+0100\n"
+"PO-Revision-Date: 2009-04-25 15:59+0100\n"
+"Last-Translator: Giacomo Margarito <giacomomargarito@gmail.com>\n"
+"Language-Team: Kujawiak Team <augustino@users.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\\src\n"
+
+#: ..\src/ku.h:79
+msgid "Please select language:"
+msgstr "Selezionate la lingua:"
+
+#: ..\src/ku.h:81
+msgid "Enumerating items in Archive Panel..."
+msgstr "Numerazione elementi nel Pannello Archivio..."
+
+#: ..\src/ku.h:82
+msgid "Deleting all items in Archive Panel..."
+msgstr "Eliminazione elementi nel Pannello Archivio..."
+
+#: ..\src/ku.h:83
+msgid "Loading thumbs in selected directory..."
+msgstr "Caricamento icone nella cartella selezionata..."
+
+#: ..\src/ku.h:84
+msgid "File has been saved: "
+msgstr "Il file è stato salvato:"
+
+#: ..\src/ku.h:85
+msgid "Operation has been canceled."
+msgstr "L'operazione è stata annullata."
+
+#: ..\src/ku.h:86
+msgid "Cut: "
+msgstr "Taglia:"
+
+#: ..\src/ku.h:87
+msgid "Copy: "
+msgstr "Copia:"
+
+#: ..\src/ku.h:88
+msgid "Copying: "
+msgstr "Copia in corso di:"
+
+#: ..\src/ku.h:89
+msgid "Moving: "
+msgstr "Spostamento in corso di:"
+
+#: ..\src/ku.h:90
+msgid "Deleting: "
+msgstr "Eliminazione in corso di:"
+
+#: ..\src/ku.h:91
+msgid "File has been renamed: "
+msgstr "Il file è stato rinominato:"
+
+#: ..\src/ku.h:92
+msgid "File has been copied: "
+msgstr "Il file è stato copiato:"
+
+#: ..\src/ku.h:93
+msgid "File has been moved: "
+msgstr "Il file è stato spostato:"
+
+#: ..\src/ku.h:94
+msgid "File has been deleted: "
+msgstr "Il file è stato eliminato:"
+
+#: ..\src/ku.h:95
+msgid "File doesn't contain any metadata..."
+msgstr "Il file non contiene alcun metadato..."
+
+#: ..\src/ku.h:96
+msgid "Interrupted by user."
+msgstr "Interrotto dall'utente."
+
+#: ..\src/ku.h:97
+msgid "Please select a picture."
+msgstr "Selezionate un'immagine."
+
+#: ..\src/ku.h:98
+msgid "Please select a directory which contains pictures."
+msgstr "Selezionate una cartella che contiene immagini."
+
+#: ..\src/ku.h:99
+msgid "Please wait or interrupt current operation!"
+msgstr "Attendete o interrompete l'operazione in corso!"
+
+#: ..\src/ku.h:100
+msgid "Cannot save: "
+msgstr "Impossibile salvare:"
+
+#: ..\src/ku.h:101
+msgid "Cannot rename: "
+msgstr "Impossibile rinominare:"
+
+#: ..\src/ku.h:102
+msgid "Cannot copy: "
+msgstr "Impossibile copiare:"
+
+#: ..\src/ku.h:103
+msgid "Cannot move: "
+msgstr "Impossibile spostare:"
+
+#: ..\src/ku.h:104
+msgid "Cannot delete: "
+msgstr "Impossibile eliminare:"
+
+#: ..\src/ku.h:105
+msgid "Cannot mkdir: "
+msgstr "Impossibile creare la cartella:"
+
+#: ..\src/ku.h:106
+msgid "Cannot rmdir: "
+msgstr "Impossibile rimuovere la cartella:"
+
+#: ..\src/ku.h:107
+msgid "Already exists: "
+msgstr "Esiste già: "
+
+#: ..\src/ku.h:108
+msgid "Doesn't exist: "
+msgstr "Non esiste:"
+
+#: ..\src/ku.h:109
+msgid "Destination is source!\n"
+msgstr "La destinazione è il sorgente!\n"
+
+#: ..\src/ku.h:110
+msgid "Destination is in source!\n"
+msgstr "La destinazione è nel sorgente!\n"
+
+#: ..\src/ku.h:111
+msgid "Setting a picture in archive as wallpaper is not supported!"
+msgstr "La scelta di un'immagine in archivio come sfondo non è supportata!"
+
+#: ..\src/ku.h:112
+msgid "Cannot preview! Please check printer setting..."
+msgstr "Impossibile effettuare l'anteprima! Controllate le impostazioni della stampante..."
+
+#: ..\src/ku.h:113
+msgid ""
+"There was an error during printing!\n"
+"Please check printer and try again..."
+msgstr ""
+"Si è verificato un errore durante la stampa!\n"
+"Controllate la stampante e riprovate..."
+
+#: ..\src/ku.h:115
+msgid "&File"
+msgstr "&File"
+
+#: ..\src/ku.h:116
+msgid "&Save\tCtrl+S"
+msgstr "&Salva\tCtrl+S"
+
+#: ..\src/ku.h:117
+msgid "Save &As..."
+msgstr "Salva &con nome..."
+
+#: ..\src/ku.h:118
+msgid "Pa&ge Setup"
+msgstr "Impo&sta pagina"
+
+#: ..\src/ku.h:119
+msgid "Print Pre&view...\tShift+P"
+msgstr "Anteprima di sta&mpa...\tShift+P"
+
+#: ..\src/ku.h:120
+msgid "&Print\tCtrl+P"
+msgstr "&Stampa\tCtrl+P"
+
+#: ..\src/ku.h:122
+msgid "Prope&rties\t["
+msgstr "Proprie&tà\t["
+
+#: ..\src/ku.h:124
+msgid "M&etadata\t]"
+msgstr "M&etadati\t]"
+
+#: ..\src/ku.h:125
+msgid "&Interrupt\tCtrl+I"
+msgstr "&Interrompi\tCtrl+I"
+
+#: ..\src/ku.h:126
+msgid "&Reload\tF5"
+msgstr "&Ricarica\tF5"
+
+#: ..\src/ku.h:127
+msgid "Minimi&ze\tCtrl+Z"
+msgstr "Riduci a i&cona\tCtrl+Z"
+
+#: ..\src/ku.h:128
+msgid "&Restore"
+msgstr "&Ripristina"
+
+#: ..\src/ku.h:129
+msgid "&Quit\tCtrl+Q"
+msgstr "&Esci\tCtrl+Q"
+
+#: ..\src/ku.h:131
+msgid "&Edit"
+msgstr "&Modifica"
+
+#: ..\src/ku.h:132
+msgid "Rotate -90\tAlt+LEFT"
+msgstr "Rotazione di 90 gradi a sinistra\tAlt+LEFT"
+
+#: ..\src/ku.h:133
+msgid "Rotate +90\tAlt+RIGHT"
+msgstr "Rotazione di 90 gradi a destra\tAlt+RIGHT"
+
+#: ..\src/ku.h:134
+msgid "&Scale"
+msgstr "&Ingrandimento"
+
+#: ..\src/ku.h:136
+msgid "&Traverse"
+msgstr "&Scorrimento"
+
+#: ..\src/ku.h:137
+msgid "Go &Home\tAlt+HOME"
+msgstr "Vai alla &Home\tAlt+HOME"
+
+#: ..\src/ku.h:138
+msgid "&Previous in Directory"
+msgstr "&Precedente nella cartella"
+
+#: ..\src/ku.h:139
+msgid "&Next in Directory"
+msgstr "&Successivo nella cartella"
+
+#: ..\src/ku.h:140
+msgid "&First in Directory"
+msgstr "&Primo nella cartella"
+
+#: ..\src/ku.h:141
+msgid "La&st in Directory"
+msgstr "Ul&timo nella cartella"
+
+#: ..\src/ku.h:142
+msgid "Move &Up in Tree"
+msgstr "Sposta su &nell'albero"
+
+#: ..\src/ku.h:143
+msgid "Move &Down in Tree"
+msgstr "Sposta giu &nell'albero"
+
+#: ..\src/ku.h:144
+msgid "Move &Left in Tree"
+msgstr "Sposta a sinistra &nell'albero"
+
+#: ..\src/ku.h:145
+msgid "Move &Right in Tree"
+msgstr "Sposta a &destra nell'albero"
+
+#: ..\src/ku.h:147
+#: ..\src/ku.h:182
+msgid "&View"
+msgstr "&Visualizza"
+
+#: ..\src/ku.h:148
+msgid "F&ull Screen\tENTER"
+msgstr "Sc&hermo intero\tENTER"
+
+#: ..\src/ku.h:149
+msgid "Zoom &In\t+"
+msgstr "Ingrandisci&\t+"
+
+#: ..\src/ku.h:150
+msgid "Zoom &Out\t-"
+msgstr "Riduci&\t-"
+
+#: ..\src/ku.h:151
+msgid "Zoom &100%\t*"
+msgstr "Dimensioni &originali\t*"
+
+#: ..\src/ku.h:152
+msgid "Zoom &Fit\t/"
+msgstr "Ada&tta\t/"
+
+#: ..\src/ku.h:153
+msgid "Zoom &Extend\t\\"
+msgstr "Zoom &Esteso\t\\"
+
+#: ..\src/ku.h:154
+msgid "Opa&que"
+msgstr "Opa&cità"
+
+#: ..\src/ku.h:155
+msgid "&Slide Show\tSPACE"
+msgstr "&Presentazione\tSPACE"
+
+#: ..\src/ku.h:156
+msgid "Pause &Slide Show\tSPACE"
+msgstr "Metti in pausa la &presentazione\tSPACE"
+
+#: ..\src/ku.h:157
+msgid "Continue &Slide Show\tSPACE"
+msgstr "Continua la &presentazione\tSPACE"
+
+#: ..\src/ku.h:159
+msgid "&Panel"
+msgstr "&Pannello"
+
+#: ..\src/ku.h:160
+msgid "&Filesystem\tF10"
+msgstr "&Filesystem\tF10"
+
+#: ..\src/ku.h:161
+msgid "&Archive\tF11"
+msgstr "&Archivio\tF11"
+
+#: ..\src/ku.h:162
+msgid "&Thumbnail\tF12"
+msgstr "&Anteprima\tF12"
+
+#: ..\src/ku.h:164
+msgid "&Manage"
+msgstr "&Gestisci"
+
+#: ..\src/ku.h:165
+msgid "&New Directory"
+msgstr "&Nuova cartella"
+
+#: ..\src/ku.h:166
+msgid "&Rename File\tF2"
+msgstr "&Rinomina file\tF2"
+
+#: ..\src/ku.h:167
+msgid "Cu&t File\tCtrl+X"
+msgstr "Ta&glia file\tCtrl+X"
+
+#: ..\src/ku.h:168
+msgid "&Copy File\tCtrl+C"
+msgstr "&Copia file\tCtrl+C"
+
+#: ..\src/ku.h:169
+msgid "&Paste File\tCtrl+V"
+msgstr "&Incolla file\tCtrl+V"
+
+#: ..\src/ku.h:170
+msgid "&Delete File\tDEL"
+msgstr "&Elimina file\tDEL"
+
+#: ..\src/ku.h:171
+msgid "&Move File To..."
+msgstr "&Sposta file in..."
+
+#: ..\src/ku.h:172
+msgid "Copy File &To..."
+msgstr "Copia file &in..."
+
+#: ..\src/ku.h:174
+msgid "&Option"
+msgstr "&Opzione"
+
+#: ..\src/ku.h:175
+msgid "&Shell Integration"
+msgstr "&Integrazione nella shell"
+
+#: ..\src/ku.h:176
+msgid "File &Association"
+msgstr "Associazione dei &file"
+
+#: ..\src/ku.h:177
+msgid "&Desktop"
+msgstr "&Desktop"
+
+#: ..\src/ku.h:178
+msgid "Set as &Wallpaper"
+msgstr "Imposta come &sfondo"
+
+#: ..\src/ku.h:179
+msgid "&None Wallpaper"
+msgstr "&Nessuno sfondo"
+
+#: ..\src/ku.h:180
+msgid "&Background Color"
+msgstr "&Colore di sfondo"
+
+#: ..\src/ku.h:181
+msgid "&Language"
+msgstr "&Lingua"
+
+#: ..\src/ku.h:183
+msgid "Fixed &Scale"
+msgstr "Ingrandimento &fisso"
+
+#: ..\src/ku.h:184
+msgid "Fixed &Rotation"
+msgstr "Rotazione &fissa"
+
+#: ..\src/ku.h:185
+msgid "Fixed &LeftTop"
+msgstr "In alto a sinistra &fisso"
+
+#: ..\src/ku.h:186
+msgid "Load &Completely"
+msgstr "Carica &completamente"
+
+#: ..\src/ku.h:187
+msgid "&Prefetch"
+msgstr "&Precaricamento"
+
+#: ..\src/ku.h:188
+msgid "Scale &Filter"
+msgstr "Filtro &ingrandimento"
+
+#: ..\src/ku.h:189
+msgid "Bo&x"
+msgstr "Bo&x"
+
+#: ..\src/ku.h:190
+msgid "Bi&linear"
+msgstr "Bi&lineare"
+
+#: ..\src/ku.h:191
+msgid "B-&Spline"
+msgstr "B-&Spline"
+
+#: ..\src/ku.h:192
+msgid "&Bicubic"
+msgstr "&Bicubico"
+
+#: ..\src/ku.h:193
+msgid "&Catmull-Rom"
+msgstr "&Catmull-Rom"
+
+#: ..\src/ku.h:194
+msgid "&Lanczos"
+msgstr "&Lanczos"
+
+#: ..\src/ku.h:195
+msgid "Slide Sho&w"
+msgstr "Presentazion&e"
+
+#: ..\src/ku.h:196
+msgid "Repeat"
+msgstr "Ripeti"
+
+#: ..\src/ku.h:198
+msgid "&Help"
+msgstr "&Guida"
+
+#: ..\src/ku.h:199
+msgid "&About"
+msgstr "&Info"
+
+#: ..\src/ku.h:201
+msgid ""
+"\n"
+"Do you want to skip it and continue?"
+msgstr ""
+"\n"
+"Volete tralasciare e continuare?"
+
+#: ..\src/ku.h:202
+msgid "Confirm"
+msgstr "OK"
+
+#: ..\src/ku.h:203
+msgid "Rotate/Clone original file losslessly?"
+msgstr "Ruotare/Clonare il file originale senza perdite?"
+
+#: ..\src/ku.h:204
+msgid ""
+"This function is NOT complete!\n"
+"File quality and information may be STRIPPED!!\n"
+"Do you want to continue?"
+msgstr ""
+"Questa funzione NON è completa!\n"
+"La qualità del file e le informazioni potrebbero essere ALTERATE!!\n"
+"Volete continuare?"
+
+#: ..\src/ku.h:205
+msgid ""
+"Current file has been modified,\n"
+"reload original file now?"
+msgstr ""
+"Il file attuale è stato modificato,\n"
+"volete ricaricare il file originale?"
+
+#: ..\src/ku.h:206
+msgid "Please input directory name:"
+msgstr "Inserite il nome della cartella:"
+
+#: ..\src/ku.h:207
+msgid "Please input new name:"
+msgstr "Inserite il nuovo nome:"
+
+#: ..\src/ku.h:208
+msgid "The file will be deleted!\n"
+msgstr "Il file verrà eliminato!\n"
+
+#: ..\src/ku.h:210
+msgid "Drive"
+msgstr "Unità"
+
+#: ..\src/ku.h:211
+msgid "Directory"
+msgstr "Cartella"
+
+#: ..\src/ku.h:212
+msgid "File"
+msgstr "File"
+
+#: ..\src/ku.h:213
+msgid ""
+"Please select where to add\n"
+"\"Browse with kuView\" entry:\n"
+"(ContextMenu on right click)"
+msgstr ""
+"Selezionate dove aggiungere\n"
+"comando \"Sfoglia con kuView\":\n"
+"(Menu contestuale con clic del tasto destro del mouse)"
+
+#: ..\src/ku.h:214
+msgid "Browse with kuView"
+msgstr "Sfoglia con kuView"
+
+#: ..\src/ku.h:215
+msgid ""
+"Please select file extension:\n"
+"(WITHOUT restore function!)"
+msgstr ""
+"Selezionate l'estensione del file:\n"
+"(SENZA ripristinare la funzione!)"
+
+#: ..\src/ku.h:216
+#: ..\src/ku.h:233
+msgid "Center"
+msgstr "Al centro"
+
+#: ..\src/ku.h:217
+msgid "Tile"
+msgstr "Allinea"
+
+#: ..\src/ku.h:218
+msgid "Stretch"
+msgstr "Allunga"
+
+#: ..\src/ku.h:219
+msgid "Scale to Fit"
+msgstr "Adatta allo schermo"
+
+#: ..\src/ku.h:220
+msgid "Scale to Extend"
+msgstr "Adatta all'estensione"
+
+#: ..\src/ku.h:221
+msgid "Please select how to set wallpaper:"
+msgstr "Selezionate come impostare lo sfondo:"
+
+#: ..\src/ku.h:222
+msgid "Do you want to disable wallpaper?"
+msgstr "Volete disabilitare lo sfondo?"
+
+#: ..\src/ku.h:224
+msgid ""
+"Please input a number between 0 and 255:\n"
+"(0 is fully transparent, and 255 is fully opaque)"
+msgstr ""
+"Inserite un numero tra 0 e 255:\n"
+"(0 è totalmente trasparente, e 255 è totalmente opaco)"
+
+#: ..\src/ku.h:225
+msgid "opaque value:"
+msgstr "valore opacità:"
+
+#: ..\src/ku.h:226
+msgid "Please input interval in second:"
+msgstr "Inserite l'intervallo in secondi:"
+
+#: ..\src/ku.h:227
+msgid "Interval"
+msgstr "Intervallo"
+
+#: ..\src/ku.h:228
+msgid "&Close"
+msgstr "&Chiudi"
+
+#: ..\src/ku.h:229
+msgid "&Print..."
+msgstr "&Stampa..."
+
+#: ..\src/ku.h:230
+msgid "&Align..."
+msgstr "&Allineamento..."
+
+#: ..\src/ku.h:231
+msgid "&Scale..."
+msgstr "&Ingrandimento..."
+
+#: ..\src/ku.h:232
+msgid "Please select the position button for alignment:"
+msgstr "Selezionate la posizione del pulsante per l'allineamento:"
+
+#: ..\src/ku.h:234
+msgid "Left"
+msgstr "Sinistra"
+
+#: ..\src/ku.h:235
+msgid "Right"
+msgstr "Destra"
+
+#: ..\src/ku.h:236
+msgid "Top"
+msgstr "Alto"
+
+#: ..\src/ku.h:237
+msgid "Bottom"
+msgstr "Basso"
+
+#: ..\src/ku.h:238
+msgid "Please enter the scale ratio:"
+msgstr "Inserite la percentuale di ingrandimento:"
+
+#: ..\src/ku.h:239
+msgid ""
+"It is not a valid number!\n"
+"Please try again..."
+msgstr ""
+"Non è un numero valido!\n"
+"Riprovate...:"
+
+#: ..\src/ku.h:279
+msgid "Comments"
+msgstr "Commenti"
+
+#: ..\src/ku.h:280
+msgid "Main"
+msgstr "Principale"
+
+#: ..\src/ku.h:281
+msgid "Exif"
+msgstr "Exif"
+
+#: ..\src/ku.h:282
+msgid "GPS"
+msgstr "GPS"
+
+#: ..\src/ku.h:283
+msgid "Maker Note"
+msgstr "Crea appunto"
+
+#: ..\src/ku.h:284
+msgid "Interoperability"
+msgstr "Interoperabilità"
+
+#: ..\src/ku.h:285
+msgid "IPTC"
+msgstr "IPTC"
+
+#: ..\src/ku.h:286
+msgid "XMP"
+msgstr "XMP"
+
+#: ..\src/ku.h:287
+msgid "GeoTIFF"
+msgstr "GeoTIFF"
+
+#: ..\src/ku.h:288
+msgid "Animation"
+msgstr "Animazione"
+
+#: ..\src/ku.h:289
+msgid "Tag"
+msgstr "Tag"
+
+#: ..\src/ku.h:290
+msgid "Value"
+msgstr "Valore"
+
+#: ..\src/ku.h:291
+msgid "Description"
+msgstr "Descrizione"
+
+#, fuzzy
+#~ msgid "&OK"
+#~ msgstr "確定"
+
+#, fuzzy
+#~ msgid "&Cancel"
+#~ msgstr "取消"
+#~ msgid "Please select a valid file to set as wallpaper!"
+#~ msgstr "請選擇"
+

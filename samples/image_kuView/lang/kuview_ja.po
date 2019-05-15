@@ -1,0 +1,686 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kujawiak Viewer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-14 12:40+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Augustino Zhuang <augustino@users.sourceforge.net>\n"
+"Language-Team: Kujawiak Team <augustino@users.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../src\n"
+
+#: ../src/ku.h:79
+msgid "Please select language:"
+msgstr "言語を選択してください:"
+
+#: ../src/ku.h:81
+msgid "Enumerating items in Archive Panel..."
+msgstr "アーカイブパネルで項目を数え上げます..."
+
+#: ../src/ku.h:82
+msgid "Deleting all items in Archive Panel..."
+msgstr "アーカイブパネルのすべての項目を削除します..."
+
+#: ../src/ku.h:83
+msgid "Loading thumbs in selected directory..."
+msgstr "サムネイルをロードします..."
+
+#: ../src/ku.h:84
+msgid "File has been saved: "
+msgstr "ファイルは保存されました:"
+
+#: ../src/ku.h:85
+msgid "Operation has been canceled."
+msgstr "操作は中止されました."
+
+#: ../src/ku.h:86
+msgid "Cut: "
+msgstr "切り取り:"
+
+#: ../src/ku.h:87
+msgid "Copy: "
+msgstr "コピー:"
+
+#: ../src/ku.h:88
+msgid "Copying: "
+msgstr "コピーします:"
+
+#: ../src/ku.h:89
+msgid "Moving: "
+msgstr "移動します:"
+
+#: ../src/ku.h:90
+msgid "Deleting: "
+msgstr "削除します:"
+
+#: ../src/ku.h:91
+msgid "File has been renamed: "
+msgstr "ファイルは改名されました:"
+
+#: ../src/ku.h:92
+msgid "File has been copied: "
+msgstr "ファイルはコピーされました:"
+
+#: ../src/ku.h:93
+msgid "File has been moved: "
+msgstr "ファイルは移動されました:"
+
+#: ../src/ku.h:94
+msgid "File has been deleted: "
+msgstr "ファイルは削除されました:"
+
+#: ../src/ku.h:95
+msgid "File doesn't contain any metadata..."
+msgstr "ファイルはメタデータを含んでいません..."
+
+#: ../src/ku.h:96
+msgid "Interrupted by user."
+msgstr "ユーザによって中断されます."
+
+#: ../src/ku.h:97
+msgid "Please select a picture."
+msgstr "画像を選択してください."
+
+#: ../src/ku.h:98
+msgid "Please select a directory which contains pictures."
+msgstr "画像を含むフォルダーを選択してください."
+
+#: ../src/ku.h:99
+msgid "Please wait or interrupt current operation!"
+msgstr "待つか、または中断してください!"
+
+#: ../src/ku.h:100
+msgid "Cannot save: "
+msgstr "保存できません:"
+
+#: ../src/ku.h:101
+msgid "Cannot rename: "
+msgstr "改名できません:"
+
+#: ../src/ku.h:102
+msgid "Cannot copy: "
+msgstr "コピーできません:"
+
+#: ../src/ku.h:103
+msgid "Cannot move: "
+msgstr "移動できません:"
+
+#: ../src/ku.h:104
+msgid "Cannot delete: "
+msgstr "削除できません:"
+
+#: ../src/ku.h:105
+msgid "Cannot mkdir: "
+msgstr "フォルダーを作成できません:"
+
+#: ../src/ku.h:106
+msgid "Cannot rmdir: "
+msgstr "フォルダーを削除できません:"
+
+#: ../src/ku.h:107
+msgid "Already exists: "
+msgstr "既に、存在しています:"
+
+#: ../src/ku.h:108
+msgid "Doesn't exist: "
+msgstr "存在していません:"
+
+#: ../src/ku.h:109
+msgid "Destination is source!\n"
+msgstr "目的地はソースです!\n"
+
+#: ../src/ku.h:110
+msgid "Destination is in source!\n"
+msgstr "目的地がソースにあります!\n"
+
+#: ../src/ku.h:111
+msgid "Setting a picture in archive as wallpaper is not supported!"
+msgstr "壁紙にアーカイブの中の画像を設定できません!"
+
+#: ../src/ku.h:112
+msgid "Cannot preview! Please check printer setting..."
+msgstr "プレビューできません! プリンタ設定をチェックしてください..."
+
+#: ../src/ku.h:113
+msgid ""
+"There was an error during printing!\n"
+"Please check printer and try again..."
+msgstr ""
+"エラーはありました!\n"
+"プリンタをチェックして、再試行してください..."
+
+#: ../src/ku.h:115
+msgid "&File"
+msgstr "ファイル(&F)"
+
+#: ../src/ku.h:116
+msgid "&Save\tCtrl+S"
+msgstr "保存(&S)\tCtrl+S"
+
+#: ../src/ku.h:117
+msgid "Save &As..."
+msgstr "別名で保存(&A)..."
+
+#: ../src/ku.h:118
+msgid "Pa&ge Setup"
+msgstr "ページの設定(&G)"
+
+#: ../src/ku.h:119
+msgid "Print Pre&view...\tShift+P"
+msgstr "印刷プレビュー(&V)...\tShift+P"
+
+#: ../src/ku.h:120
+msgid "&Print\tCtrl+P"
+msgstr "印刷(&P)\tCtrl+P"
+
+#: ../src/ku.h:122
+msgid "Prope&rties\t["
+msgstr "プロパティ(&R)\t["
+
+#: ../src/ku.h:124
+msgid "M&etadata\t]"
+msgstr "メタデータ(&E)\t]"
+
+#: ../src/ku.h:125
+msgid "&Interrupt\tCtrl+I"
+msgstr "中断(&I)\tCtrl+I"
+
+#: ../src/ku.h:126
+msgid "&Reload\tF5"
+msgstr "再読込み(&R)\tF5"
+
+#: ../src/ku.h:127
+msgid "Minimi&ze\tCtrl+Z"
+msgstr "最小化(&Z)\tCtrl+Z"
+
+#: ../src/ku.h:128
+msgid "&Restore"
+msgstr "復元(&R)"
+
+#: ../src/ku.h:129
+msgid "&Quit\tCtrl+Q"
+msgstr "終了(&Q)\tCtrl+Q"
+
+#: ../src/ku.h:131
+msgid "&Edit"
+msgstr "編集(&E)"
+
+#: ../src/ku.h:132
+msgid "Rotate -90\tAlt+LEFT"
+msgstr "左回りに回転\tAlt+LEFT"
+
+#: ../src/ku.h:133
+msgid "Rotate +90\tAlt+RIGHT"
+msgstr "右回りに回転\tAlt+RIGHT"
+
+#: ../src/ku.h:134
+msgid "&Scale"
+msgstr "拡大縮小(&S)"
+
+#: ../src/ku.h:136
+msgid "&Traverse"
+msgstr "フォルダー(&T)"
+
+#: ../src/ku.h:137
+msgid "Go &Home\tAlt+HOME"
+msgstr "ホーム(&H)\tAlt+HOME"
+
+#: ../src/ku.h:138
+msgid "&Previous in Directory"
+msgstr "前の画像へ(&P)"
+
+#: ../src/ku.h:139
+msgid "&Next in Directory"
+msgstr "次の画像へ(&N)"
+
+#: ../src/ku.h:140
+msgid "&First in Directory"
+msgstr "先頭へ(&F)"
+
+#: ../src/ku.h:141
+msgid "La&st in Directory"
+msgstr "最後へ(&S)"
+
+#: ../src/ku.h:142
+msgid "Move &Up in Tree"
+msgstr "上へ移動(&U)"
+
+#: ../src/ku.h:143
+msgid "Move &Down in Tree"
+msgstr "下へ移動(&D)"
+
+#: ../src/ku.h:144
+msgid "Move &Left in Tree"
+msgstr "左へ移動(&L)"
+
+#: ../src/ku.h:145
+msgid "Move &Right in Tree"
+msgstr "右へ移動(&R)"
+
+#: ../src/ku.h:147
+#: ../src/ku.h:182
+msgid "&View"
+msgstr "表示(&V)"
+
+#: ../src/ku.h:148
+msgid "F&ull Screen\tENTER"
+msgstr "フルスクリーン(&U)\tENTER"
+
+#: ../src/ku.h:149
+msgid "Zoom &In\t+"
+msgstr "拡大(&I)\t+"
+
+#: ../src/ku.h:150
+msgid "Zoom &Out\t-"
+msgstr "縮小(&O)\t-"
+
+#: ../src/ku.h:151
+msgid "Zoom &100%\t*"
+msgstr "オリジナル(&1)\t*"
+
+#: ../src/ku.h:152
+msgid "Zoom &Fit\t/"
+msgstr "合わせる(&F)\t/"
+
+#: ../src/ku.h:153
+msgid "Zoom &Extend\t\\"
+msgstr "ズーム(&E)\t\\"
+
+#: ../src/ku.h:154
+msgid "Opa&que"
+msgstr "不透明(&Q)"
+
+#: ../src/ku.h:155
+msgid "&Slide Show\tSPACE"
+msgstr "スライドショー(&S)\tSPACE"
+
+#: ../src/ku.h:156
+msgid "Pause &Slide Show\tSPACE"
+msgstr "一時停止(&S)\tSPACE"
+
+#: ../src/ku.h:157
+msgid "Continue &Slide Show\tSPACE"
+msgstr "再生(&S)\tSPACE"
+
+#: ../src/ku.h:159
+msgid "&Panel"
+msgstr "パネル(&P)"
+
+#: ../src/ku.h:160
+msgid "&Filesystem\tF10"
+msgstr "ファイルシステム(&F)\tF10"
+
+#: ../src/ku.h:161
+msgid "&Archive\tF11"
+msgstr "アーカイブ(&A)\tF11"
+
+#: ../src/ku.h:162
+msgid "&Thumbnail\tF12"
+msgstr "サムネイル(&T)\tF12"
+
+#: ../src/ku.h:164
+msgid "&Manage"
+msgstr "管理(&M)"
+
+#: ../src/ku.h:165
+msgid "&New Directory"
+msgstr "フォルダーの生成(&N)"
+
+#: ../src/ku.h:166
+msgid "&Rename File\tF2"
+msgstr "名前の変更(&R)\tF2"
+
+#: ../src/ku.h:167
+msgid "Cu&t File\tCtrl+X"
+msgstr "切り取り(&T)\tCtrl+X"
+
+#: ../src/ku.h:168
+msgid "&Copy File\tCtrl+C"
+msgstr "コピー(&C)\tCtrl+C"
+
+#: ../src/ku.h:169
+msgid "&Paste File\tCtrl+V"
+msgstr "貼り付け(&P)\tCtrl+V"
+
+#: ../src/ku.h:170
+msgid "&Delete File\tDEL"
+msgstr "削除(&D)\tDEL"
+
+#: ../src/ku.h:171
+msgid "&Move File To..."
+msgstr "フォルダーへ移動(&M)..."
+
+#: ../src/ku.h:172
+msgid "Copy File &To..."
+msgstr "フォルダーへコピー(&T)..."
+
+#: ../src/ku.h:174
+msgid "&Option"
+msgstr "設定(&O)"
+
+#: ../src/ku.h:175
+msgid "&Shell Integration"
+msgstr "右のボタンメのニュー(&S)"
+
+#: ../src/ku.h:176
+msgid "File &Association"
+msgstr "ファイルの関連付け(&A)"
+
+#: ../src/ku.h:177
+msgid "&Desktop"
+msgstr "デスクトップ(&D)"
+
+#: ../src/ku.h:178
+msgid "Set as &Wallpaper"
+msgstr "壁紙に設定(&W)"
+
+#: ../src/ku.h:179
+msgid "&None Wallpaper"
+msgstr "壁紙なし(&N)"
+
+#: ../src/ku.h:180
+msgid "&Background Color"
+msgstr "背景色(&B)"
+
+#: ../src/ku.h:181
+msgid "&Language"
+msgstr "言語(&L)"
+
+#: ../src/ku.h:183
+msgid "Fixed &Scale"
+msgstr "固定拡大(&S)"
+
+#: ../src/ku.h:184
+msgid "Fixed &Rotation"
+msgstr "固定回転(&R)"
+
+#: ../src/ku.h:185
+msgid "Fixed &LeftTop"
+msgstr "固定左上(&L)"
+
+#: ../src/ku.h:186
+msgid "Load &Completely"
+msgstr "完全読込(&C)"
+
+#: ../src/ku.h:187
+msgid "&Prefetch"
+msgstr "先取り(&P)"
+
+#: ../src/ku.h:188
+msgid "Scale &Filter"
+msgstr "拡大縮小方法(&F)"
+
+#: ../src/ku.h:189
+msgid "Bo&x"
+msgstr "Bo&x"
+
+#: ../src/ku.h:190
+msgid "Bi&linear"
+msgstr "Bi&linear"
+
+#: ../src/ku.h:191
+msgid "B-&Spline"
+msgstr "B-&Spline"
+
+#: ../src/ku.h:192
+msgid "&Bicubic"
+msgstr "&Bicubic"
+
+#: ../src/ku.h:193
+msgid "&Catmull-Rom"
+msgstr "&Catmull-Rom"
+
+#: ../src/ku.h:194
+msgid "&Lanczos"
+msgstr "&Lanczos"
+
+#: ../src/ku.h:195
+msgid "Slide Sho&w"
+msgstr "スライドショー(&W)"
+
+#: ../src/ku.h:196
+msgid "Repeat"
+msgstr "リピート"
+
+#: ../src/ku.h:198
+msgid "&Help"
+msgstr "ヘルプ(&H)"
+
+#: ../src/ku.h:199
+msgid "&About"
+msgstr "kuViewについて(&A)"
+
+#: ../src/ku.h:201
+msgid ""
+"\n"
+"Do you want to skip it and continue?"
+msgstr ""
+"\n"
+"スキップして、続きたいですか?"
+
+#: ../src/ku.h:202
+msgid "Confirm"
+msgstr "確認"
+
+#: ../src/ku.h:203
+msgid "Rotate/Clone original file losslessly?"
+msgstr "損失なしで元のファイルをクローン/回転させたいですか?"
+
+#: ../src/ku.h:204
+msgid ""
+"This function is NOT complete!\n"
+"File quality and information may be STRIPPED!!\n"
+"Do you want to continue?"
+msgstr ""
+"ファイル品質と情報は失われるかもしれません!\n"
+"続きたいですか?"
+
+#: ../src/ku.h:205
+msgid ""
+"Current file has been modified,\n"
+"reload original file now?"
+msgstr ""
+"現在のファイルは変更されました\n"
+"現在、元のファイルを再ロードしたいですか?"
+
+#: ../src/ku.h:206
+msgid "Please input directory name:"
+msgstr "フォルダー名を入力してください:"
+
+#: ../src/ku.h:207
+msgid "Please input new name:"
+msgstr "新名を入力してください:"
+
+#: ../src/ku.h:208
+msgid "The file will be deleted!\n"
+msgstr "ファイルは削除されるでしょう!\n"
+
+#: ../src/ku.h:210
+msgid "Drive"
+msgstr "ドライブ"
+
+#: ../src/ku.h:211
+msgid "Directory"
+msgstr "フォルダー"
+
+#: ../src/ku.h:212
+msgid "File"
+msgstr "ファイル"
+
+#: ../src/ku.h:213
+msgid ""
+"Please select where to add\n"
+"\"Browse with kuView\" entry:\n"
+"(ContextMenu on right click)"
+msgstr ""
+"どこで\"Browse with kuView\"を\n"
+"加えるかを選択してください:\n"
+"(右のボタンメのニュー)"
+
+#: ../src/ku.h:214
+msgid "Browse with kuView"
+msgstr "Browse with kuView"
+
+#: ../src/ku.h:215
+msgid ""
+"Please select file extension:\n"
+"(WITHOUT restore function!)"
+msgstr ""
+"ファイルの形式を選択してください:\n"
+"(回復できません!)"
+
+#: ../src/ku.h:216
+#: ../src/ku.h:233
+msgid "Center"
+msgstr "中央"
+
+#: ../src/ku.h:217
+msgid "Tile"
+msgstr "並べて表示"
+
+#: ../src/ku.h:218
+msgid "Stretch"
+msgstr "拡大して表示"
+
+#: ../src/ku.h:219
+msgid "Scale to Fit"
+msgstr "合わせる"
+
+#: ../src/ku.h:220
+msgid "Scale to Extend"
+msgstr "ズーム"
+
+#: ../src/ku.h:221
+msgid "Please select how to set wallpaper:"
+msgstr "表示方法を選択してください:"
+
+#: ../src/ku.h:222
+msgid "Do you want to disable wallpaper?"
+msgstr "壁紙に使用を停止しますか?"
+
+#: ../src/ku.h:224
+msgid ""
+"Please input a number between 0 and 255:\n"
+"(0 is fully transparent, and 255 is fully opaque)"
+msgstr ""
+"不透明值を入力してください(0~255):\n"
+"(0完全透明,255完全不透明)"
+
+#: ../src/ku.h:225
+msgid "opaque value:"
+msgstr "不透明值:"
+
+#: ../src/ku.h:226
+msgid "Please input interval in second:"
+msgstr "間隔を入力してください(秒):"
+
+#: ../src/ku.h:227
+msgid "Interval"
+msgstr "間隔"
+
+#: ../src/ku.h:228
+msgid "&Close"
+msgstr "閉じる(&C)"
+
+#: ../src/ku.h:229
+msgid "&Print..."
+msgstr "印刷(&P)..."
+
+#: ../src/ku.h:230
+msgid "&Align..."
+msgstr "位置(&A)..."
+
+#: ../src/ku.h:231
+msgid "&Scale..."
+msgstr "拡大縮小(&S)..."
+
+#: ../src/ku.h:232
+msgid "Please select the position button for alignment:"
+msgstr "位置を選択してください:"
+
+#: ../src/ku.h:234
+msgid "Left"
+msgstr "左"
+
+#: ../src/ku.h:235
+msgid "Right"
+msgstr "右"
+
+#: ../src/ku.h:236
+msgid "Top"
+msgstr "上"
+
+#: ../src/ku.h:237
+msgid "Bottom"
+msgstr "下"
+
+#: ../src/ku.h:238
+msgid "Please enter the scale ratio:"
+msgstr "拡大縮小の程度を入力してください:"
+
+#: ../src/ku.h:239
+msgid ""
+"It is not a valid number!\n"
+"Please try again..."
+msgstr ""
+"それは有効な数ではありません!\n"
+"再試行してください..."
+
+#: ../src/ku.h:277
+msgid "Comments"
+msgstr "コメント"
+
+#: ../src/ku.h:278
+msgid "Main"
+msgstr "メイン"
+
+#: ../src/ku.h:279
+msgid "Exif"
+msgstr "Exif"
+
+#: ../src/ku.h:280
+msgid "GPS"
+msgstr "GPS"
+
+#: ../src/ku.h:281
+msgid "Maker Note"
+msgstr "Maker Note"
+
+#: ../src/ku.h:282
+msgid "Interoperability"
+msgstr "Interoperability"
+
+#: ../src/ku.h:283
+msgid "IPTC"
+msgstr "IPTC"
+
+#: ../src/ku.h:284
+msgid "XMP"
+msgstr "XMP"
+
+#: ../src/ku.h:285
+msgid "GeoTIFF"
+msgstr "GeoTIFF"
+
+#: ../src/ku.h:286
+msgid "Animation"
+msgstr "Animation"
+
+#: ../src/ku.h:287
+msgid "Tag"
+msgstr "タグ"
+
+#: ../src/ku.h:288
+msgid "Value"
+msgstr "值"
+
+#: ../src/ku.h:289
+msgid "Description"
+msgstr "記述"
+

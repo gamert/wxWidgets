@@ -1,0 +1,3 @@
+#include "../sample.rc"
+#include "src/icons.rc"
+

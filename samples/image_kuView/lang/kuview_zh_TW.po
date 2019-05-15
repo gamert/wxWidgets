@@ -1,0 +1,704 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kujawiak Viewer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-14 12:40+0800\n"
+"PO-Revision-Date: 2009-04-14 12:40+0800\n"
+"Last-Translator: Augustino Zhuang <augustino@users.sourceforge.net>\n"
+"Language-Team: Kujawiak Team <augustino@users.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: TAIWAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\\src\n"
+
+#: ..\src/ku.h:79
+msgid "Please select language:"
+msgstr "請選擇語言:"
+
+#: ..\src/ku.h:81
+msgid "Enumerating items in Archive Panel..."
+msgstr "正在列舉項目至壓縮檔窗格..."
+
+#: ..\src/ku.h:82
+msgid "Deleting all items in Archive Panel..."
+msgstr "正在清除壓縮檔窗格裡的項目..."
+
+#: ..\src/ku.h:83
+msgid "Loading thumbs in selected directory..."
+msgstr "正在載入此目錄中的縮圖..."
+
+#: ..\src/ku.h:84
+msgid "File has been saved: "
+msgstr "檔案已儲存: "
+
+#: ..\src/ku.h:85
+msgid "Operation has been canceled."
+msgstr "動作已取消."
+
+#: ..\src/ku.h:86
+msgid "Cut: "
+msgstr "剪下: "
+
+#: ..\src/ku.h:87
+msgid "Copy: "
+msgstr "複製: "
+
+#: ..\src/ku.h:88
+msgid "Copying: "
+msgstr "正在複製: "
+
+#: ..\src/ku.h:89
+msgid "Moving: "
+msgstr "正在搬移: "
+
+#: ..\src/ku.h:90
+msgid "Deleting: "
+msgstr "正在刪除: "
+
+#: ..\src/ku.h:91
+msgid "File has been renamed: "
+msgstr "檔案已重新命名: "
+
+#: ..\src/ku.h:92
+msgid "File has been copied: "
+msgstr "檔案已複製: "
+
+#: ..\src/ku.h:93
+msgid "File has been moved: "
+msgstr "檔案已搬移: "
+
+#: ..\src/ku.h:94
+msgid "File has been deleted: "
+msgstr "檔案已刪除: "
+
+#: ..\src/ku.h:95
+msgid "File doesn't contain any metadata..."
+msgstr "此檔案不存在任何圖片資訊..."
+
+#: ..\src/ku.h:96
+msgid "Interrupted by user."
+msgstr "動作已中止."
+
+#: ..\src/ku.h:97
+msgid "Please select a picture."
+msgstr "請選擇圖片檔."
+
+#: ..\src/ku.h:98
+msgid "Please select a directory which contains pictures."
+msgstr "請選擇存有圖片檔的目錄."
+
+#: ..\src/ku.h:99
+msgid "Please wait or interrupt current operation!"
+msgstr "請稍候或中止目前的工作!"
+
+#: ..\src/ku.h:100
+msgid "Cannot save: "
+msgstr "無法儲存: "
+
+#: ..\src/ku.h:101
+msgid "Cannot rename: "
+msgstr "無法重新命名: "
+
+#: ..\src/ku.h:102
+msgid "Cannot copy: "
+msgstr "無法複製: "
+
+#: ..\src/ku.h:103
+msgid "Cannot move: "
+msgstr "無法搬移: "
+
+#: ..\src/ku.h:104
+msgid "Cannot delete: "
+msgstr "無法刪除: "
+
+#: ..\src/ku.h:105
+msgid "Cannot mkdir: "
+msgstr "無法建立目錄: "
+
+#: ..\src/ku.h:106
+msgid "Cannot rmdir: "
+msgstr "無法刪除目錄: "
+
+#: ..\src/ku.h:107
+msgid "Already exists: "
+msgstr "檔案已存在: "
+
+#: ..\src/ku.h:108
+msgid "Doesn't exist: "
+msgstr "檔案不存在: "
+
+#: ..\src/ku.h:109
+msgid "Destination is source!\n"
+msgstr "目的與來源為同一檔案!\n"
+
+#: ..\src/ku.h:110
+msgid "Destination is in source!\n"
+msgstr "目的位置在來源目錄之中!\n"
+
+#: ..\src/ku.h:111
+msgid "Setting a picture in archive as wallpaper is not supported!"
+msgstr "不支援將壓縮檔中的圖片設為桌布!"
+
+#: ..\src/ku.h:112
+msgid "Cannot preview! Please check printer setting..."
+msgstr "無法預覽! 請確認印表機設定..."
+
+#: ..\src/ku.h:113
+msgid ""
+"There was an error during printing!\n"
+"Please check printer and try again..."
+msgstr ""
+"列印過程發生錯誤!\n"
+"請檢查印表機並重試..."
+
+#: ..\src/ku.h:115
+msgid "&File"
+msgstr "檔案(&F)"
+
+#: ..\src/ku.h:116
+msgid "&Save\tCtrl+S"
+msgstr "儲存檔案(&S)\tCtrl+S"
+
+#: ..\src/ku.h:117
+msgid "Save &As..."
+msgstr "另存新檔(&A)..."
+
+#: ..\src/ku.h:118
+msgid "Pa&ge Setup"
+msgstr "頁面設定(&G)"
+
+#: ..\src/ku.h:119
+msgid "Print Pre&view...\tShift+P"
+msgstr "列印預覽...(&V)\tShift+P"
+
+#: ..\src/ku.h:120
+msgid "&Print\tCtrl+P"
+msgstr "列印(&P)\tCtrl+P"
+
+#: ..\src/ku.h:122
+msgid "Prope&rties\t["
+msgstr "內容(&R)\t["
+
+#: ..\src/ku.h:124
+msgid "M&etadata\t]"
+msgstr "圖片資訊(&E)\t]"
+
+#: ..\src/ku.h:125
+msgid "&Interrupt\tCtrl+I"
+msgstr "中止(&I)\tCtrl+I"
+
+#: ..\src/ku.h:126
+msgid "&Reload\tF5"
+msgstr "重新載入(&R)\tF5"
+
+#: ..\src/ku.h:127
+msgid "Minimi&ze\tCtrl+Z"
+msgstr "最小化(&Z)\tCtrl+Z"
+
+#: ..\src/ku.h:128
+msgid "&Restore"
+msgstr "還原(&R)"
+
+#: ..\src/ku.h:129
+msgid "&Quit\tCtrl+Q"
+msgstr "離開(&Q)\tCtrl+Q"
+
+#: ..\src/ku.h:131
+msgid "&Edit"
+msgstr "編輯(&E)"
+
+#: ..\src/ku.h:132
+msgid "Rotate -90\tAlt+LEFT"
+msgstr "逆時針旋轉90度\tAlt+LEFT"
+
+#: ..\src/ku.h:133
+msgid "Rotate +90\tAlt+RIGHT"
+msgstr "順時針旋轉90度\tAlt+RIGHT"
+
+#: ..\src/ku.h:134
+msgid "&Scale"
+msgstr "縮放圖片尺寸(&S)"
+
+#: ..\src/ku.h:136
+msgid "&Traverse"
+msgstr "瀏覽(&T)"
+
+#: ..\src/ku.h:137
+msgid "Go &Home\tAlt+HOME"
+msgstr "家目錄(&H)\tAlt+HOME"
+
+#: ..\src/ku.h:138
+msgid "&Previous in Directory"
+msgstr "目錄中的前一個檔案(&P)"
+
+#: ..\src/ku.h:139
+msgid "&Next in Directory"
+msgstr "目錄中的後一個檔案(&N)"
+
+#: ..\src/ku.h:140
+msgid "&First in Directory"
+msgstr "目錄中的最前一個檔案(&F)"
+
+#: ..\src/ku.h:141
+msgid "La&st in Directory"
+msgstr "目錄中的最後一個檔案(&S)"
+
+#: ..\src/ku.h:142
+msgid "Move &Up in Tree"
+msgstr "在資料夾窗格中上移(&U)"
+
+#: ..\src/ku.h:143
+msgid "Move &Down in Tree"
+msgstr "在資料夾窗格中下移(&D)"
+
+#: ..\src/ku.h:144
+msgid "Move &Left in Tree"
+msgstr "在資料夾窗格中左移(&L)"
+
+#: ..\src/ku.h:145
+msgid "Move &Right in Tree"
+msgstr "在資料夾窗格中右移(&R)"
+
+#: ..\src/ku.h:147
+#: ..\src/ku.h:182
+msgid "&View"
+msgstr "檢視(&V)"
+
+#: ..\src/ku.h:148
+msgid "F&ull Screen\tENTER"
+msgstr "全螢幕檢視(&U)\tENTER"
+
+#: ..\src/ku.h:149
+msgid "Zoom &In\t+"
+msgstr "拉近(&I)\t+"
+
+#: ..\src/ku.h:150
+msgid "Zoom &Out\t-"
+msgstr "拉遠(&O)\t-"
+
+#: ..\src/ku.h:151
+msgid "Zoom &100%\t*"
+msgstr "原始比例(&1)\t*"
+
+#: ..\src/ku.h:152
+msgid "Zoom &Fit\t/"
+msgstr "最適大小(&F)\t/"
+
+#: ..\src/ku.h:153
+msgid "Zoom &Extend\t\\"
+msgstr "最適裁切(&E)\t\\"
+
+#: ..\src/ku.h:154
+msgid "Opa&que"
+msgstr "半透明(&Q)"
+
+#: ..\src/ku.h:155
+msgid "&Slide Show\tSPACE"
+msgstr "投影片播放(&S)\tSPACE"
+
+#: ..\src/ku.h:156
+msgid "Pause &Slide Show\tSPACE"
+msgstr "暫停播放(&S)\tSPACE"
+
+#: ..\src/ku.h:157
+msgid "Continue &Slide Show\tSPACE"
+msgstr "繼續播放(&S)\tSPACE"
+
+#: ..\src/ku.h:159
+msgid "&Panel"
+msgstr "窗格(&P)"
+
+#: ..\src/ku.h:160
+msgid "&Filesystem\tF10"
+msgstr "資料夾窗格(&F)\tF10"
+
+#: ..\src/ku.h:161
+msgid "&Archive\tF11"
+msgstr "壓縮檔窗格(&A)\tF11"
+
+#: ..\src/ku.h:162
+msgid "&Thumbnail\tF12"
+msgstr "縮圖窗格(&T)\tF12"
+
+#: ..\src/ku.h:164
+msgid "&Manage"
+msgstr "管理(&M)"
+
+#: ..\src/ku.h:165
+msgid "&New Directory"
+msgstr "新建目錄(&N)"
+
+#: ..\src/ku.h:166
+msgid "&Rename File\tF2"
+msgstr "重新命名(&R)\tF2"
+
+#: ..\src/ku.h:167
+msgid "Cu&t File\tCtrl+X"
+msgstr "剪下檔案(&T)\tCtrl+X"
+
+#: ..\src/ku.h:168
+msgid "&Copy File\tCtrl+C"
+msgstr "複製檔案(&C)\tCtrl+C"
+
+#: ..\src/ku.h:169
+msgid "&Paste File\tCtrl+V"
+msgstr "貼上檔案(&P)\tCtrl+V"
+
+#: ..\src/ku.h:170
+msgid "&Delete File\tDEL"
+msgstr "刪除檔案(&D)\tDEL"
+
+#: ..\src/ku.h:171
+msgid "&Move File To..."
+msgstr "搬移檔案至(&M)..."
+
+#: ..\src/ku.h:172
+msgid "Copy File &To..."
+msgstr "複製檔案至(&T)..."
+
+#: ..\src/ku.h:174
+msgid "&Option"
+msgstr "設置(&O)"
+
+#: ..\src/ku.h:175
+msgid "&Shell Integration"
+msgstr "介面整合(&S)"
+
+#: ..\src/ku.h:176
+msgid "File &Association"
+msgstr "檔案關聯(&A)"
+
+#: ..\src/ku.h:177
+msgid "&Desktop"
+msgstr "桌面(&D)"
+
+#: ..\src/ku.h:178
+msgid "Set as &Wallpaper"
+msgstr "設為桌布(&W)"
+
+#: ..\src/ku.h:179
+msgid "&None Wallpaper"
+msgstr "純色桌布(&N)"
+
+#: ..\src/ku.h:180
+msgid "&Background Color"
+msgstr "桌面底色(&B)"
+
+#: ..\src/ku.h:181
+msgid "&Language"
+msgstr "語言(&L)"
+
+#: ..\src/ku.h:183
+msgid "Fixed &Scale"
+msgstr "固定檢視比例(&S)"
+
+#: ..\src/ku.h:184
+msgid "Fixed &Rotation"
+msgstr "固定旋轉角度(&R)"
+
+#: ..\src/ku.h:185
+msgid "Fixed &LeftTop"
+msgstr "固定移動位置(&L)"
+
+#: ..\src/ku.h:186
+msgid "Load &Completely"
+msgstr "總是完整載入全檔(&C)"
+
+#: ..\src/ku.h:187
+msgid "&Prefetch"
+msgstr "預載(&P)"
+
+#: ..\src/ku.h:188
+msgid "Scale &Filter"
+msgstr "縮放濾鏡(&F)"
+
+#: ..\src/ku.h:189
+msgid "Bo&x"
+msgstr "Bo&x"
+
+#: ..\src/ku.h:190
+msgid "Bi&linear"
+msgstr "Bi&linear"
+
+#: ..\src/ku.h:191
+msgid "B-&Spline"
+msgstr "B-&Spline"
+
+#: ..\src/ku.h:192
+msgid "&Bicubic"
+msgstr "&Bicubic"
+
+#: ..\src/ku.h:193
+msgid "&Catmull-Rom"
+msgstr "&Catmull-Rom"
+
+#: ..\src/ku.h:194
+msgid "&Lanczos"
+msgstr "&Lanczos"
+
+#: ..\src/ku.h:195
+msgid "Slide Sho&w"
+msgstr "投影片播放(&W)"
+
+#: ..\src/ku.h:196
+msgid "Repeat"
+msgstr "循環"
+
+#: ..\src/ku.h:198
+msgid "&Help"
+msgstr "說明(&H)"
+
+#: ..\src/ku.h:199
+msgid "&About"
+msgstr "關於(&A)"
+
+#: ..\src/ku.h:201
+msgid ""
+"\n"
+"Do you want to skip it and continue?"
+msgstr ""
+"\n"
+"略過這個動作並繼續嗎?"
+
+#: ..\src/ku.h:202
+msgid "Confirm"
+msgstr "確認"
+
+#: ..\src/ku.h:203
+msgid "Rotate/Clone original file losslessly?"
+msgstr "無損地旋轉/複製原始檔案?"
+
+#: ..\src/ku.h:204
+msgid ""
+"This function is NOT complete!\n"
+"File quality and information may be STRIPPED!!\n"
+"Do you want to continue?"
+msgstr ""
+"此功能並\"不\"完整!\n"
+"檔案品質與資訊可能會漏失!\n"
+"確定要繼續嗎?"
+
+#: ..\src/ku.h:205
+msgid ""
+"Current file has been modified,\n"
+"reload original file now?"
+msgstr ""
+"檔案已更動,\n"
+"是否要重新載入?"
+
+#: ..\src/ku.h:206
+msgid "Please input directory name:"
+msgstr "請輸入目錄名稱:"
+
+#: ..\src/ku.h:207
+msgid "Please input new name:"
+msgstr "請輸入新名稱:"
+
+#: ..\src/ku.h:208
+msgid "The file will be deleted!\n"
+msgstr "檔案將被刪除!\n"
+
+#: ..\src/ku.h:210
+msgid "Drive"
+msgstr "磁碟"
+
+#: ..\src/ku.h:211
+msgid "Directory"
+msgstr "目錄"
+
+#: ..\src/ku.h:212
+msgid "File"
+msgstr "檔案"
+
+#: ..\src/ku.h:213
+msgid ""
+"Please select where to add\n"
+"\"Browse with kuView\" entry:\n"
+"(ContextMenu on right click)"
+msgstr ""
+"請選擇要在哪些右鍵選單加入\n"
+"\"Browse with kuView\" 項目:"
+
+#: ..\src/ku.h:214
+msgid "Browse with kuView"
+msgstr "Browse with kuView"
+
+#: ..\src/ku.h:215
+msgid ""
+"Please select file extension:\n"
+"(WITHOUT restore function!)"
+msgstr ""
+"請選擇關聯副檔名:\n"
+"(\"不\"提供還原功能!)"
+
+#: ..\src/ku.h:216
+#: ..\src/ku.h:233
+msgid "Center"
+msgstr "置中"
+
+#: ..\src/ku.h:217
+msgid "Tile"
+msgstr "並排顯示"
+
+#: ..\src/ku.h:218
+msgid "Stretch"
+msgstr "延展"
+
+#: ..\src/ku.h:219
+msgid "Scale to Fit"
+msgstr "縮放至最適大小"
+
+#: ..\src/ku.h:220
+msgid "Scale to Extend"
+msgstr "縮放至最適裁切"
+
+#: ..\src/ku.h:221
+msgid "Please select how to set wallpaper:"
+msgstr "請選擇設置桌布的形式:"
+
+#: ..\src/ku.h:222
+msgid "Do you want to disable wallpaper?"
+msgstr "停用圖片並設為純色桌布嗎?"
+
+#: ..\src/ku.h:224
+msgid ""
+"Please input a number between 0 and 255:\n"
+"(0 is fully transparent, and 255 is fully opaque)"
+msgstr ""
+"請輸入介於0~255的數值:\n"
+"(0為全透明, 255為不透明)"
+
+#: ..\src/ku.h:225
+msgid "opaque value:"
+msgstr "透明度:"
+
+#: ..\src/ku.h:226
+msgid "Please input interval in second:"
+msgstr "請輸入播放間隔: (in second)"
+
+#: ..\src/ku.h:227
+msgid "Interval"
+msgstr "播放間隔"
+
+#: ..\src/ku.h:228
+msgid "&Close"
+msgstr "關閉(&C)"
+
+#: ..\src/ku.h:229
+msgid "&Print..."
+msgstr "列印...(&P)"
+
+#: ..\src/ku.h:230
+msgid "&Align..."
+msgstr "對齊...(&A)"
+
+#: ..\src/ku.h:231
+msgid "&Scale..."
+msgstr "縮放...(&S)"
+
+#: ..\src/ku.h:232
+msgid "Please select the position button for alignment:"
+msgstr "請點選對齊方式:"
+
+#: ..\src/ku.h:234
+msgid "Left"
+msgstr "靠左"
+
+#: ..\src/ku.h:235
+msgid "Right"
+msgstr "靠右"
+
+#: ..\src/ku.h:236
+msgid "Top"
+msgstr "靠上"
+
+#: ..\src/ku.h:237
+msgid "Bottom"
+msgstr "靠下"
+
+#: ..\src/ku.h:238
+msgid "Please enter the scale ratio:"
+msgstr "請輸入縮放比例:"
+
+#: ..\src/ku.h:239
+msgid ""
+"It is not a valid number!\n"
+"Please try again..."
+msgstr ""
+"不是有效的數字!\n"
+"請重新輸入:"
+
+#: ..\src/ku.h:277
+msgid "Comments"
+msgstr "註解"
+
+#: ..\src/ku.h:278
+msgid "Main"
+msgstr "主要"
+
+#: ..\src/ku.h:279
+msgid "Exif"
+msgstr "延伸"
+
+#: ..\src/ku.h:280
+msgid "GPS"
+msgstr "GPS"
+
+#: ..\src/ku.h:281
+msgid "Maker Note"
+msgstr "Maker Note"
+
+#: ..\src/ku.h:282
+msgid "Interoperability"
+msgstr "Interoperability"
+
+#: ..\src/ku.h:283
+msgid "IPTC"
+msgstr "IPTC"
+
+#: ..\src/ku.h:284
+msgid "XMP"
+msgstr "XMP"
+
+#: ..\src/ku.h:285
+msgid "GeoTIFF"
+msgstr "GeoTIFF"
+
+#: ..\src/ku.h:286
+msgid "Animation"
+msgstr "Animation"
+
+#: ..\src/ku.h:287
+msgid "Tag"
+msgstr "標籤"
+
+#: ..\src/ku.h:288
+msgid "Value"
+msgstr "內容"
+
+#: ..\src/ku.h:289
+msgid "Description"
+msgstr "說明"
+
+#~ msgid "JPEG file"
+#~ msgstr "JPEG檔案"
+
+#, fuzzy
+#~ msgid "&OK"
+#~ msgstr "確定"
+
+#, fuzzy
+#~ msgid "&Cancel"
+#~ msgstr "取消"
+#~ msgid "Please select a valid file to set as wallpaper!"
+#~ msgstr "請選擇"
+
